@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.ensime:sbt-ensime:2.5.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/scala_2.12/sbt_1.0/org.ensime/sbt-ensime/jars/sbt-ensime-2.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/scala_2.12/sbt_1.0/org.ensime/sbt-ensime/srcs/sbt-ensime-2.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
