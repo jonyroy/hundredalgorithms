@@ -1,6 +1,8 @@
 *.class
 *.log
-/target
-/.idea
-/project/target
-/out
+hundred-algo-scala/*.class
+hundred-algo-scala/*.log
+hundred-algo-scala/target
+hundred-algo-scala/.idea
+hundred-algo-scala/project/target
+hundred-algo-scala/out
