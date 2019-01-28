@@ -4,7 +4,7 @@
 		module="hundred-algo-scala$sources"
 		revision="0.1"
 		status="integration"
-		publication="20190128232647"
+		publication="20190128234257"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
